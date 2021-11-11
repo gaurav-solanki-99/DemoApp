@@ -14,6 +14,13 @@
     <color name="tv_color_pink">#D84E4C</color>
     <color name="tv_color_green">#60AF5E</color>
     <color name="tv_color_blue">#3B9AEC</color>
+    <color name="tv_color_darkblue">#030B37</color>
+    <color name="bg_light_skyBlue">#C6D7DF</color>
+    <color name="et_background_color">#CAEAA4</color>
+    <color name="bg_button_register">#6B9F2D</color>
+    <color name="tv_color_darkGreen">#002E02</color>
+
+    <color name="red">#EA0D0D</color>
 
 
 </resources>
